@@ -1,0 +1,19 @@
+{
+  "name": "frontity-contact-form-7-helper",
+  "version": "1.0.0",
+  "description": "Provides an endpoint for subitting ",
+  "homepage": "https://github.com/frontity/frontity",
+  "license": "Apache-2.0",
+  "keywords": [
+    "frontity",
+    "frontity-analytics",
+    "frontity-google-analytics"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frontity/frontity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frontity/frontity/issues"
+  }
+}
